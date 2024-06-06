@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-from typing import Iterable, Sequence, List, Tuple
 """It's a type-annotated function element_length that takes a list input_list
 of strings and returns a list of tuples, where each tuple contains a string
 and its length."""
+from typing import Iterable, Sequence, List, Tuple
 
 
 def element_length(lst: Iterable[Sequence]) -> List[Tuple[Sequence, int]]:
