@@ -5,6 +5,8 @@ from typing import Sequence, Union, Any, Optional
 
 
 NoneType = Optional[Any]
+
+
 def safe_first_element(lst: Sequence[Any]) -> Union[Any, NoneType]:
     """Return the first element of a list if it exists, otherwise None."""
     if lst:
