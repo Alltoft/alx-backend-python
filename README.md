@@ -31,6 +31,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or inquiries, please contact the project maintainers:
 
+- John Doe (johndoe@example.com)
+- Jane Smith (janesmith@example.com)
 - Emran Alltoft (ouakouriimran@gmail.com)
 
 ## Follow
