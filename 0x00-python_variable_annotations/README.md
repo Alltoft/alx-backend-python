@@ -24,7 +24,7 @@ Each subfolder in this directory contains a specific Python code example or exer
 
 To run the code examples, you can use a Python interpreter or execute the Python files directly from the command line.
 
-## MainProfail
+## MainProfile
 
 [Github](https://github.com/Alltoft)
 
